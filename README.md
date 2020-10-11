@@ -17,4 +17,5 @@ $ npm install
 
 # Run
 Run the Backend :$ npm start
+
 Run the frontend: $ npm start
