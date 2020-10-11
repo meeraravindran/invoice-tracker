@@ -15,6 +15,6 @@ $ cd backend
 
 $ npm install
 
-#Run
+# Run
 Run the Backend :$ npm start
 Run the frontend: $ npm start
